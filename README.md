@@ -23,6 +23,10 @@ Only the 32-bit Access Database Engine may be used on Windows XP Service Pack 3
 
 ## Changelog
 
+## 2020-04-21
+
+* version SP2 - 2019.12.21
+
 ### 2018-02-21 Build 2016.07.01
 
 * initial build

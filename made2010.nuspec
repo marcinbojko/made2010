@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>made2010</id>
     <title>Microsoft Access Database Engine 2010 Redistributable</title>
-    <version>2016.07.01</version>
+    <version>2019.12.20</version>
     <authors>Microsoft</authors>
     <owners>Marcin Bojko</owners>
     <summary>The Web Deployment Tool simplifies migration, management and deployment of IIS Web servers, Web applications and Web sites.</summary>
@@ -35,6 +35,10 @@ Only the 32-bit Access Database Engine may be used on Windows XP Service Pack 3
 
 ## Changelog
 
+## 2020-04-21
+
+* version SP2 - 2019.12.21
+
 ### 2018-02-21 Build 2016.07.01
 
 * initial build
@@ -59,17 +63,16 @@ made2010:
     <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=13255&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True</projectUrl>
     <packageSourceUrl>https://github.com/marcinbojko/made2010</packageSourceUrl>
     <docsUrl>https://www.microsoft.com/en-us/download/details.aspx?id=13255&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True</docsUrl>
-    <iconUrl>https://www.dropbox.com/s/je4zo3pdqi6ldc6/Microsoft.jpg?raw=1</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/marcinbojko/made2010/7578dd4416b5dcb76f1edb6a970333340441b184/icons/webdeploy.png</iconUrl>
     <!--<projectSourceUrl></projectSourceUrl>
     <mailingListUrl></mailingListUrl>-->
     <tags>microsoft access database engine</tags>
     <copyright>Microsoft</copyright>
-    <licenseUrl>https://www.microsoft.com/en-us/download/details.aspx?id=13255&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True</licenseUrl>
+    <licenseUrl>https://www.microsoft.com/en-us/download/details.aspx?id=13255&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>https://support.microsoft.com/en-us/help/2460011/a-description-of-access-database-engine-2010-service-pack-1</releaseNotes>
   </metadata>
     <files>
       <file src="tools\**" target="tools" />
-      <file src="icons\**" target="icons" />
     </files>
 </package>

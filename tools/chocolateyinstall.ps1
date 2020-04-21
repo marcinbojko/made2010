@@ -5,8 +5,8 @@ $packageName        = 'made2010'
 $scriptPath         = $(Split-Path $MyInvocation.MyCommand.Path)
 $url_local          = "https://download.microsoft.com/download/2/4/3/24375141-E08D-4803-AB0E-10F2E3A07AAA/AccessDatabaseEngine.exe"
 $url_local64        = "https://download.microsoft.com/download/2/4/3/24375141-E08D-4803-AB0E-10F2E3A07AAA/AccessDatabaseEngine_X64.exe"
-$checksum           = "2b94903a1b87ea55f4bc28457be5c602c6194de7e79b8e22d7b723d5ef351587"
-$checksum64         = "0c41d59a27984fd3032149a2f065841de9609dd3f756b3c3ba4836f02e7ac7c0"
+$checksum           = "86fecfce83469b3f40ee93e0b54f433209c2bf5626d7f475761024e3f2d4a324"
+$checksum64         = "15e5151bde13aa6756b7d0c74db5831932559fc4a60d1f7a43ed1f44e8102558"
 $killexec           = 0
 $killexecprocess    = ""
 
