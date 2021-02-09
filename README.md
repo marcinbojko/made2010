@@ -23,6 +23,11 @@ Only the 32-bit Access Database Engine may be used on Windows XP Service Pack 3
 
 ## Changelog
 
+## 2021-02-08 - no binary version change
+
+* smaller typos
+* supress reboot [https://github.com/marcinbojko/made2010/pull/1](https://github.com/marcinbojko/made2010/pull/1)
+
 ## 2020-04-21
 
 * version SP2 - 2019.12.21
