@@ -13,7 +13,7 @@ $killexecprocess    = ""
 $packageArgs = @{
   packageName   = $packageName
   fileType      = 'exe'
-  silentArgs    = "/quiet /norestart"
+  silentArgs    = "/quiet /norestart REBOOT=ReallySuppress"
   validExitCodes= @(0, 3010, 1603, 1641)
   url           = $url_local
   url64bit      = $url_local64
