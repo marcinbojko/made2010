@@ -1,5 +1,16 @@
 # Microsoft Access Database Engine 2010 Redistributable
 
+![Chocolatey](https://img.shields.io/badge/Chocolatey-orange)
+![Windows2016](https://img.shields.io/badge/Windows-2016-blue)
+![Windows2019](https://img.shields.io/badge/Windows-2019-blue)
+![Windows2022](https://img.shields.io/badge/Windows-2022-blue)
+![Windows10](https://img.shields.io/badge/Windows-10-lightblue)
+![Windows11](https://img.shields.io/badge/Windows-11-lightblue)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marcinbojko)
+
+Consider buying me a coffee if you like my work. All donations are appreciated. All donations will be used to pay for pipeline running costs
+
 ## Description
 
 This download will install a set of components that can be used to facilitate transfer of data between 2010 Microsoft Office System files and non-Microsoft Office applications.
@@ -23,19 +34,8 @@ Only the 32-bit Access Database Engine may be used on Windows XP Service Pack 3
 
 ## Changelog
 
-## 2021-02-08 - no binary version change
-
-* smaller typos
-* supress reboot [https://github.com/marcinbojko/made2010/pull/1](https://github.com/marcinbojko/made2010/pull/1)
-
-## 2020-04-21
-
-* version SP2 - 2019.12.21
-
-### 2018-02-21 Build 2016.07.01
-
-* initial build
-* version SP2 - 2016.07.01
+* 2024-04-1 - 2024.04.11
+  * [BREAKING CHANGE] - Due to Microsoft Access Database Engine 2010 Redistributable being removed from the Microsoft website, the package has switched to webarchive. There is no binary switch from previous release, but there is no guarantee that the package will work as expected. Please test it before using in production.
 
 ## Usage
 

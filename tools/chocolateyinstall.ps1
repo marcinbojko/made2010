@@ -3,8 +3,8 @@ $ErrorActionPreference = 'Stop';
 
 $packageName        = 'made2010'
 #$scriptPath         = $(Split-Path $MyInvocation.MyCommand.Path)
-$url_local          = "https://download.microsoft.com/download/2/4/3/24375141-E08D-4803-AB0E-10F2E3A07AAA/AccessDatabaseEngine.exe"
-$url_local64        = "https://download.microsoft.com/download/2/4/3/24375141-E08D-4803-AB0E-10F2E3A07AAA/AccessDatabaseEngine_X64.exe"
+$url_local          = "https://web.archive.org/web/20240214170634if_/https://download.microsoft.com/download/2/4/3/24375141-E08D-4803-AB0E-10F2E3A07AAA/AccessDatabaseEngine.exe"
+$url_local64        = "https://web.archive.org/web/20240214170634if_/https://download.microsoft.com/download/2/4/3/24375141-E08D-4803-AB0E-10F2E3A07AAA/AccessDatabaseEngine_X64.exe"
 $checksum           = "86fecfce83469b3f40ee93e0b54f433209c2bf5626d7f475761024e3f2d4a324"
 $checksum64         = "15e5151bde13aa6756b7d0c74db5831932559fc4a60d1f7a43ed1f44e8102558"
 $killexec           = 0

@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>made2010</id>
     <title>Microsoft Access Database Engine 2010 Redistributable</title>
-    <version>2021.02.08</version>
+    <version>2024.04.11</version>
     <authors>Microsoft</authors>
     <owners>Marcin Bojko</owners>
     <summary>The Web Deployment Tool simplifies migration, management and deployment of IIS Web servers, Web applications and Web sites.</summary>
