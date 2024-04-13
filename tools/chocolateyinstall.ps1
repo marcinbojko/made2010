@@ -27,19 +27,4 @@ $packageArgs = @{
 if ($killexec) {
   Stop-Process -processname $killexecprocess -force
   }
-
   Install-ChocolateyPackage @packageArgs
-
-
-
-
-
-
-
-
-
-
-
-
-
-

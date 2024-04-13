@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>made2010</id>
     <title>Microsoft Access Database Engine 2010 Redistributable</title>
-    <version>2024.04.11</version>
+    <version>2024.04.13</version>
     <authors>Microsoft</authors>
     <owners>Marcin Bojko</owners>
     <summary>The Web Deployment Tool simplifies migration, management and deployment of IIS Web servers, Web applications and Web sites.</summary>
@@ -32,23 +32,6 @@ The Access Database Engine 2010 Redistributable is not intended:
 Windows 7, Windows 8, Windows Server 2003 R2 (32-Bit x86), Windows Server 2003 R2 x64 editions, Windows Server 2008 R2, Windows Server 2008 Service Pack 2, Windows Server 2012 R2, Windows Vista Service Pack 1, Windows XP Service Pack 3
 
 Only the 32-bit Access Database Engine may be used on Windows XP Service Pack 3
-
-## Changelog
-
-
-## 2021-02-08 - no binary version change
-
-* smaller typos
-* supress reboot [https://github.com/marcinbojko/made2010/pull/1](https://github.com/marcinbojko/made2010/pull/1)
-
-### 2020-04-21
-
-* version SP2 - 2019.12.21
-
-### 2018-02-21 Build 2016.07.01
-
-* initial build
-* version SP2 - 2016.07.01
 
 ## Usage
 
